@@ -1,0 +1,3 @@
+Git Commit => pull => push.
+
+en cas d'erreur, git revert.
